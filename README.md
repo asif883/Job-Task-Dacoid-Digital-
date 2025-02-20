@@ -40,7 +40,7 @@ QuizMaster is an engaging quiz platform built with React and Tailwind CSS, allow
 
 ```bash
 1. Clone the repository:
-   git clone https://github.com/yourusername/quizmaster.git
+   git clone https://github.com/asif883/quizmaster.git
    cd quizmaster
 
 2. Install dependencies:
